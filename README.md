@@ -8,7 +8,7 @@ I opted for a different approach:
 - Simplified the process by anchoring to the parent element and merging the innerText of its children into a unified string.
 - Played back the consolidated string leveraging keyup/keydown events.
 
-The result? An average typing speed of **25,797.2 words per minute**.
+The result? An average typing speed of **25,797.2 words per minute**.  This also took me about 45 minutes to an hour.
 
 ## Test Run Results:
 
