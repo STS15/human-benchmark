@@ -16,8 +16,6 @@ const { chromium } = require('playwright');
         return combinedInnerText;
     });
 
-    await page.click('.letters');
-
     await page.evaluate((content) => {
         const element = document.getElementsByClassName('letters')[0];
 
